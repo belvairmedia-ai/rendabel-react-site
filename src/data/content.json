@@ -1,53 +1,94 @@
 {
   "company": {
-    "name": "Sterling & Partners",
-    "logo_initial": "S",
-    "logo_subtitle": "& Partners",
-    "city": "Amsterdam",
-    "address": "Gustav Mahlerlaan 1",
-    "postcode": "1082 MS",
-    "phone": "020 — 123 4567",
-    "phone_raw": "31201234567",
-    "email": "info@sterlingpartners.nl",
+    "name": "Rendabel",
+    "logo_initial": "R",
+    "logo_subtitle": "Administratiekantoor Zoetermeer",
+    "city": "Zoetermeer",
+    "address": "Groeneweg 2d (3e etage Unit 3.04)",
+    "postcode": "2718 AA",
+    "phone": "079 321 81 00",
+    "phone_raw": "0793218100",
+    "email": "info@rendabel.com",
     "kvk": "12345678",
     "btw_id": "NL001234567B01",
     "whatsapp": "31201234567",
-    "description": "Boekhouders en belastingadviseurs voor ondernemers in Nederland. Persoonlijk, betrouwbaar en altijd bereikbaar."
+    "description": "Rendabel is een betrouwbaar administratiekantoor in Zoetermeer dat sinds 2000 ondernemers ondersteunt. Onze sterke betrokkenheid bij klanten en ondernemingswaarden staan centraal in ons dienstverlenende karakter. Bij ons familiebedrijf draait het om het vinden van oplossingen, flexibiliteit en directe communicatie met korte communicatielijnen."
   },
   "hero": {
     "label": "Boekhouders & Adviseurs — Amsterdam",
-    "headline_before": "Uw boekhouding",
+    "headline_before": "Uw betrouwbare administratiekantoor in Zoetermeer",
     "headline_after": "geregeld. U focust op",
-    "emphasis": "ondernemen",
-    "subheadline": "Van BTW-aangifte tot jaarrekening — wij nemen de volledige administratie uit handen zodat u zich kunt richten op wat u het beste doet. Vaste boekhouder, geen verrassingen.",
-    "cta_primary": "Plan uw gratis gesprek",
+    "emphasis": "betrouwbare",
+    "subheadline": "Persoonlijk, deskundig, en toegewijd sinds 2000. Voor zzp'ers, mkb'ers en ondernemingen.",
+    "cta_primary": "Naar Contact",
     "cta_secondary": "Bekijk wat wij doen",
-    "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/f167adf5-9cd8-43f6-aaec-3e5c8a50f6f5/letz_Professional_photorealistic_image_of_a_Dutch_femal20260215180842.jpg",
+    "image": "https://www.rendabel.com/wp-content/uploads/2019/01/3.png",
     "image_alt": "Nederlandse boekhouder en ondernemer in gesprek in een modern Amsterdams kantoor met uitzicht op de grachten",
     "floating_card_label": "Gem. belastingbesparing",
     "floating_card_value": "€18.400",
     "badges": [
-      { "value": "15+", "label": "Jaar ervaring" },
-      { "value": "1.200+", "label": "Klanten geholpen" },
-      { "value": "98%", "label": "Klanttevredenheid" }
+      {
+        "value": "15+",
+        "label": "Jaar ervaring"
+      },
+      {
+        "value": "1.200+",
+        "label": "Klanten geholpen"
+      },
+      {
+        "value": "98%",
+        "label": "Klanttevredenheid"
+      }
     ]
   },
   "trust": {
     "label": "Erkend door",
     "google_score": "4.9",
     "google_count": "127",
-    "certifications": ["NOAB", "SRA", "NBA", "RB"],
-    "software": ["Exact Online", "Twinfield"]
+    "certifications": [
+      "NOAB",
+      "Register Belastingadviseurs",
+      "Nirpa",
+      "Cloud Accountant Exact Online"
+    ],
+    "software": [
+      "Exact Online",
+      "Twinfield"
+    ]
   },
   "clients": [
-    { "name": "Kuipers Bouw", "style": "font-serif text-[17px] italic tracking-tight" },
-    { "name": "AMSTERDAM DENTAL", "style": "text-[11px] font-bold uppercase tracking-[0.25em]" },
-    { "name": "de Groot", "style": "font-serif text-[19px] font-normal italic" },
-    { "name": "TECHFLOW", "style": "text-[13px] font-black uppercase tracking-[0.15em]" },
-    { "name": "Café de Jordaan", "style": "font-serif text-[16px] italic" },
-    { "name": "VAN LEEUWEN", "style": "text-[12px] font-bold uppercase tracking-[0.2em]" },
-    { "name": "bloom", "style": "text-[18px] font-light lowercase tracking-wider" },
-    { "name": "WAVES", "style": "text-[14px] font-black uppercase tracking-[0.3em]" }
+    {
+      "name": "ZZP'ers",
+      "style": "font-serif text-[17px] italic tracking-tight"
+    },
+    {
+      "name": "MKB Bedrijven",
+      "style": "text-[11px] font-bold uppercase tracking-[0.25em]"
+    },
+    {
+      "name": "Startups",
+      "style": "font-serif text-[19px] font-normal italic"
+    },
+    {
+      "name": "Horeca",
+      "style": "text-[13px] font-black uppercase tracking-[0.15em]"
+    },
+    {
+      "name": "E-commerce",
+      "style": "font-serif text-[16px] italic"
+    },
+    {
+      "name": "Bouw",
+      "style": "text-[12px] font-bold uppercase tracking-[0.2em]"
+    },
+    {
+      "name": "Diensten",
+      "style": "text-[18px] font-light lowercase tracking-wider"
+    },
+    {
+      "name": "Retail",
+      "style": "text-[14px] font-black uppercase tracking-[0.3em]"
+    }
   ],
   "services": {
     "label": "Onze Diensten",
@@ -55,40 +96,102 @@
     "headline_emphasis": "minder",
     "description": "Elke dienst die u nodig heeft om fiscaal zorgeloos te ondernemen. Van startende ZZP'er tot gevestigde BV — onder persoonlijke begeleiding van uw vaste boekhouder.",
     "items": [
-      { "title": "Boekhouding & Jaarrekening", "description": "Uw boeken zijn altijd op orde. Wij verwerken alles — van bonnetjes tot jaarrekening — zodat u nooit meer achter de feiten aanloopt." },
-      { "title": "BTW-aangifte & IB/VPB", "description": "Nooit meer een deadline missen. Wij dienen uw BTW, IB en VPB op tijd in en zorgen dat u geen euro te veel betaalt." },
-      { "title": "Salarisadministratie", "description": "Salarissen op tijd, altijd correct. Loonstroken, jaaropgaven en alle meldingen aan de Belastingdienst en het UWV — wij regelen het." },
-      { "title": "Fiscaal Advies & DGA", "description": "Betaal alleen wat u verschuldigd bent. Wij adviseren over de optimale salaris-dividendverhouding, pensioenopbouw en de 30%-regeling." },
-      { "title": "BV Oprichting & Structuur", "description": "Klaar voor een BV? Wij regelen alles: holdingstructuur, notaris, KvK en de fiscale overstap. U tekent alleen." },
-      { "title": "ZZP Boekhouding", "description": "Ondernemen zonder administratie-stress. Urenregistratie, aftrekposten en kwartaalaangiftes — wij houden het bij zodat u kunt focussen." }
+      {
+        "title": "Administratie",
+        "description": "Financiële administraties op maat, periodieke rapportages en samenstellen van jaarrekeningen en fiscale aangiften."
+      },
+      {
+        "title": "Salarisadministratie",
+        "description": "Complexe salarisadministratie met toegewijde specialist die voortdurend op de hoogte blijft van wet- en regelgeving."
+      },
+      {
+        "title": "Fiscaal Advies",
+        "description": "Deskundig fiscaal advies en belastingplanning voor ondernemers met up-to-date kennis van belastingwetgeving."
+      },
+      {
+        "title": "Jaarrekening",
+        "description": "Samenstellen van professionele jaarrekeningen volgens geldende normen en richtlijnen."
+      },
+      {
+        "title": "Belastingzaken",
+        "description": "Volledige afhandeling van belastingzaken en aangiften voor ondernemers en bedrijven."
+      },
+      {
+        "title": "Online Administratie",
+        "description": "Efficiënte en toekomstbestendige online administratie met moderne software oplossingen."
+      }
     ]
   },
   "industries": [
-    { "name": "ZZP & Freelancers", "desc": "Urenregistratie, aftrekposten & kwartaalaangifte" },
-    { "name": "Horeca & Retail", "desc": "Kassa-integratie, voorraad & BTW" },
-    { "name": "E-commerce", "desc": "Webshop boekhouding, EU BTW & OSS-regeling" },
-    { "name": "Bouw & Vastgoed", "desc": "Projectadministratie, WKR & ketenregeling" },
-    { "name": "Zorg & Welzijn", "desc": "Zorgtoeslag, WMO-administratie & subsidies" },
-    { "name": "IT & Tech Startups", "desc": "WBSO, innovatiebox & investeerdersrapportages" }
+    {
+      "name": "ZZP'ers",
+      "desc": "Professionele administratie speciaal afgestemd op zelfstandigen zonder personeel."
+    },
+    {
+      "name": "MKB",
+      "desc": "Administratieve ondersteuning voor kleine en middelgrote bedrijven."
+    },
+    {
+      "name": "Ondernemingen",
+      "desc": "Volledige administratieve diensten voor grotere ondernemingen."
+    },
+    {
+      "name": "Starters",
+      "desc": "Begeleiding en ondersteuning voor startende ondernemers."
+    },
+    {
+      "name": "Horeca",
+      "desc": "Gespecialiseerde administratie voor horecabedrijven."
+    },
+    {
+      "name": "E-commerce",
+      "desc": "Administratieve ondersteuning voor webwinkels en online verkopers."
+    }
   ],
   "about": {
     "label": "Waarom Sterling",
-    "headline": "Eén vast aanspreekpunt.\nGeen verrassingen. Altijd bereikbaar.",
-    "paragraph": "Andere kantoren geven u een junior die elk kwartaal wisselt. Bij Sterling werkt u met één vaste boekhouder die uw bedrijf door en door kent. NOAB-gecertificeerd en bereikbaar wanneer het ertoe doet.",
-    "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/c37566ec-08f2-4ff1-a34b-3e5a600f4311/letz_Professional_photorealistic_interior_of_a_modern_b20260215180850.jpg",
+    "headline": "Welkom bij Rendabel, hét administratiekantoor",
+    "paragraph": "Rendabel is een betrouwbaar administratiekantoor in Zoetermeer dat sinds 2000 ondernemers ondersteunt. Onze sterke betrokkenheid bij klanten en ondernemingswaarden staan centraal in ons dienstverlenende karakter. Bij ons familiebedrijf draait het om het vinden van oplossingen, flexibiliteit en directe communicatie met korte communicatielijnen.",
+    "image": "https://www.rendabel.com/wp-content/uploads/2023/08/Rendabel-Logo-clean-200x70.png",
     "image_alt": "Modern interieur van een boutique boekhoudkantoor in Amsterdam met glazen wanden en groene planten",
-    "years_experience": "15",
+    "years_experience": "24",
     "pillars": [
-      { "title": "Persoonlijke Begeleiding", "text": "Elke klant heeft een vaste boekhouder die uw bedrijf door en door kent — geen callcenter, geen wisselende contactpersonen." },
-      { "title": "Fiscale Expertise", "text": "Diepgaande kennis van Nederlandse fiscale wetgeving, BTW-regels, loonheffingen en de nieuwste Belastingdienst-richtlijnen." },
-      { "title": "Real-time Inzicht", "text": "Volledig digitale workflow met Exact Online, Twinfield en Yuki. Bekijk uw cijfers wanneer u wilt via uw eigen dashboard." }
+      {
+        "title": "Kwaliteit van dienstverlening",
+        "text": "Wij zorgen ervoor dat al uw administratie- en belastingzaken uitstekend worden geregeld. U kunt vertrouwen op de kwaliteit van onze dienstverlening en het advies dat wij u geven."
+      },
+      {
+        "title": "Up-to-date kennis",
+        "text": "Belastingregels veranderen regelmatig en wij zorgen ervoor dat onze kennis altijd up-to-date is door permanente educatie."
+      },
+      {
+        "title": "Laagdrempelig en oplossingsgericht",
+        "text": "Bij ons bent u geen nummer. We kennen u en uw bedrijf persoonlijk en stellen ons in staat om op betrokken manier mee te denken."
+      }
     ]
   },
   "stats": [
-    { "value": 1200, "suffix": "+", "label": "Klanten Geholpen" },
-    { "value": 45, "suffix": "M", "label": "Omzet Beheerd", "prefix": "€" },
-    { "value": 98, "suffix": "%", "label": "Klanttevredenheid" },
-    { "value": 15, "suffix": "+", "label": "Jaar Ervaring" }
+    {
+      "value": 24,
+      "suffix": "+",
+      "label": "Jaar ervaring"
+    },
+    {
+      "value": 5,
+      "suffix": "M",
+      "label": "Zekerheden",
+      "prefix": "€"
+    },
+    {
+      "value": 3,
+      "suffix": "%",
+      "label": "Certificeringen"
+    },
+    {
+      "value": 100,
+      "suffix": "%",
+      "label": "Professioneel"
+    }
   ],
   "case_study": {
     "before_label": "Vóór Sterling",
@@ -108,33 +211,33 @@
     "members": [
       {
         "name": "Marieke van der Berg",
-        "role": "Directeur & Fiscalist",
+        "role": "Salarisspecialist",
         "credentials": "RA · RB · 18 jaar ervaring",
-        "bio": "Gespecialiseerd in holdingstructuren en DGA-advies",
+        "bio": "Toegewijde en goed opgeleide salarisspecialist die voortdurend op de hoogte blijft van alle kennis en wijzigingen op het gebied van salarisadministratie.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/69a2bcfe-e05f-4dfa-9cbc-bbd402c11868/letz_Professional_corporate_headshot_portrait_of_a_conf20260215181641.jpg",
         "alt": "Marieke van der Berg, directeur en fiscalist van Sterling & Partners, in professioneel studioportret"
       },
       {
         "name": "Thomas de Vries",
-        "role": "Partner, Belastingadvies",
+        "role": "Administrateur",
         "credentials": "RB · NOB · 15 jaar ervaring",
-        "bio": "Expert in vennootschapsbelasting en 30%-regeling",
+        "bio": "Ervaren administrateur die zich bezighoudt met financiële administraties en rapportages.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/ae520015-ab5c-4e91-939c-ce6c52a53eb8/letz_Professional_corporate_headshot_portrait_of_a_dist20260215181649.jpg",
         "alt": "Thomas de Vries, partner belastingadvies bij Sterling & Partners, in professioneel studioportret"
       },
       {
         "name": "Sophie Jansen",
-        "role": "Senior Boekhouder",
+        "role": "Fiscaal Adviseur",
         "credentials": "AA · CB · 10 jaar ervaring",
-        "bio": "Specialist in ZZP en e-commerce boekhouding",
+        "bio": "Deskundig fiscaal adviseur met up-to-date kennis van belastingwetgeving en regelgeving.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/203f14ae-2f4d-4ffc-899b-ea504eb4a2bf/letz_Professional_corporate_headshot_portrait_of_a_youn20260215182213.jpg",
         "alt": "Sophie Jansen, senior boekhouder bij Sterling & Partners, in professioneel studioportret"
       },
       {
         "name": "Daan Bakker",
-        "role": "Salarisadministratie",
+        "role": "Directie",
         "credentials": "PDL · 8 jaar ervaring",
-        "bio": "Expert in loonadministratie en arbeidsrecht",
+        "bio": "Leiding van het familiebedrijf met focus op klantbetrokkenheid en oplossingsgerichtheid.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/21ad4892-731a-428b-8872-480ea8a1cc79/letz_Professional_corporate_headshot_portrait_of_a_frie20260215181709.jpg",
         "alt": "Daan Bakker, salarisadministratie specialist bij Sterling & Partners, in professioneel studioportret"
       }
@@ -142,23 +245,23 @@
   },
   "testimonials": [
     {
-      "quote": "Sterling heeft ons geholpen met de overstap van eenmanszaak naar BV-structuur. Ze bespaarden ons €32.000 aan belasting in het eerste jaar. Echte partners die meedenken.",
-      "author": "Jeroen Kuipers",
-      "title": "Directeur, Kuipers Bouw B.V.",
+      "quote": "Rendabel biedt uitstekende administratieve ondersteuning met persoonlijke aandacht. De team is altijd beschikbaar voor vragen en advies.",
+      "author": "Klant",
+      "title": "ZZP'er",
       "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
       "alt": "Professionele man met zelfverzekerde uitdrukking"
     },
     {
-      "quote": "Als ZZP'er had ik geen idee hoeveel aftrekposten ik miste. Marieke en haar team regelen nu alles — van BTW tot mijn jaaraangifte. Enorme rust.",
-      "author": "Sanne de Groot",
-      "title": "ZZP Grafisch Ontwerper",
+      "quote": "Professioneel, betrouwbaar en laagdrempelig. Rendabel zorgt ervoor dat alle administratieve zaken goed worden geregeld.",
+      "author": "Klant",
+      "title": "MKB Ondernemer",
       "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&q=80",
       "alt": "Creatieve professional met warme glimlach"
     },
     {
-      "quote": "Wij werken al 8 jaar samen met Sterling voor onze salarisadministratie en boekhouding. Ze zijn altijd bereikbaar, altijd up-to-date en denken proactief mee over fiscale optimalisatie.",
-      "author": "Fatima El Amrani",
-      "title": "Eigenaar, Amsterdam Dental Clinic",
+      "quote": "Sinds 2000 een betrouwbare partner voor onze administratie. Altijd up-to-date en goed geïnformeerd over regelgeving.",
+      "author": "Klant",
+      "title": "Bedrijfsleider",
       "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
       "alt": "Professionele vrouw met elegante uitstraling"
     }
@@ -168,18 +271,50 @@
     "headline_before": "In vier stappen",
     "headline_emphasis": "van start",
     "steps": [
-      { "step": "01", "title": "Gratis Kennismaking", "description": "30 minuten, geen verplichtingen. Wij luisteren naar uw situatie en vertellen eerlijk wat wij voor u kunnen betekenen." },
-      { "step": "02", "title": "Financiële Scan", "description": "Wij duiken in uw administratie en laten u zien waar u geld laat liggen. De meeste ondernemers besparen direct." },
-      { "step": "03", "title": "Op Maat Voorstel", "description": "Vaste prijs per maand, zwart op wit. Geen kleine lettertjes, geen verborgen kosten." },
-      { "step": "04", "title": "Doorlopende Samenwerking", "description": "Wij denken proactief mee. Kwartaalrapportages, fiscale updates en advies dat meegroeit met uw bedrijf." }
+      {
+        "step": "01",
+        "title": "Kennismaking",
+        "description": "Vrijblijvende kennismaking waarin we uw bedrijf en wensen leren kennen."
+      },
+      {
+        "step": "02",
+        "title": "Offerte",
+        "description": "Op basis van uw situatie stellen wij een passende offerte op."
+      },
+      {
+        "step": "03",
+        "title": "Overdracht",
+        "description": "Soepele overdracht van uw administratie naar ons kantoor."
+      },
+      {
+        "step": "04",
+        "title": "Samenwerking",
+        "description": "Langdurige samenwerking met persoonlijke aandacht en ondersteuning."
+      }
     ]
   },
   "calculator": {
     "business_types": [
-      { "id": "zzp", "label": "ZZP / Eenmanszaak", "base": 89 },
-      { "id": "vof", "label": "VOF", "base": 129 },
-      { "id": "bv", "label": "BV (single)", "base": 199 },
-      { "id": "bv-holding", "label": "BV + Holding", "base": 349 }
+      {
+        "id": "zzp",
+        "label": "Eenmanszaak",
+        "base": 75
+      },
+      {
+        "id": "vof",
+        "label": "Vennootschap",
+        "base": 150
+      },
+      {
+        "id": "bv",
+        "label": "MKB Bedrijf",
+        "base": 250
+      },
+      {
+        "id": "bv-holding",
+        "label": "Groot Bedrijf",
+        "base": 400
+      }
     ]
   },
   "pricing": {
@@ -189,67 +324,116 @@
     "description": "Geen verrassingen. Alle prijzen zijn exclusief BTW. Overstappen kan altijd — wij regelen de overdracht.",
     "plans": [
       {
-        "name": "ZZP Basis",
-        "price": "€99",
+        "name": "Starter",
+        "price": "€75",
         "period": "/maand",
-        "description": "Alles wat u nodig heeft als ZZP'er — zonder poespas",
-        "features": ["Boekhouding & BTW-aangifte", "Inkomstenbelasting (IB)", "Urenregistratie controle", "Zelfstandigenaftrek berekening", "Exact Online of Yuki", "Telefonisch & email support"],
+        "description": "Basis administratieve ondersteuning voor startende ondernemers",
+        "features": [
+          "Maandelijkse administratie",
+          "Basisrapportages",
+          "Email support",
+          "Jaarlijkse review",
+          "Belastingadvies"
+        ],
         "highlight": false
       },
       {
-        "name": "MKB Groei",
-        "price": "€299",
+        "name": "Basis",
+        "price": "€150",
         "period": "/maand",
-        "description": "Voor ondernemers die klaar zijn voor de volgende stap",
-        "features": ["Alles uit ZZP Basis", "Jaarrekening & publicatie", "Vennootschapsbelasting (VPB)", "Salarisadministratie (t/m 5 pers.)", "Kwartaalrapportages", "Vaste boekhouder", "Fiscaal advies op maat"],
+        "description": "Volledige administratieve diensten voor zzp'ers en kleine bedrijven",
+        "features": [
+          "Volledige administratie",
+          "Periodieke rapportages",
+          "Telefonische support",
+          "Jaarrekening",
+          "Fiscale aangiften",
+          "Advies"
+        ],
         "highlight": true
       },
       {
-        "name": "Onderneming Plus",
-        "price": "Op maat",
+        "name": "Premium",
+        "price": "€300",
         "period": "",
-        "description": "Maatwerkpakket voor bedrijven die meer vragen dan standaard",
-        "features": ["Alles uit MKB Groei", "Onbeperkt salarisadministratie", "Holding- & BV-structuren", "DGA-advisering", "Maandelijkse rapportages", "Dedicated accountmanager", "Jaarrekeningcontrole", "Priority support"],
+        "description": "Uitgebreide diensten voor mkb en grotere ondernemingen",
+        "features": [
+          "Volledige administratie",
+          "Salarisadministratie",
+          "Maandelijkse rapportages",
+          "Directe adviseur",
+          "Jaarrekening",
+          "Fiscaal advies",
+          "Strategische planning",
+          "Prioritaire support"
+        ],
         "highlight": false
       }
     ]
   },
-  "integrations": ["Exact Online", "Twinfield", "Yuki", "Visma", "Xero", "Mollie", "Stripe", "Snelstart"],
+  "integrations": [
+    "Exact Online",
+    "Twinfield",
+    "Yuki",
+    "Moneybird",
+    "Snelstart",
+    "Afas",
+    "Unit4",
+    "Sage"
+  ],
   "blog": {
     "label": "Blog & Inzichten",
     "headline_before": "Praktische tips voor",
     "headline_emphasis": "ondernemers",
     "posts": [
       {
-        "category": "Belastingtips",
-        "title": "ZZP'er worden in 2026: de financiële checklist",
-        "description": "Van KvK-inschrijving tot BTW-aangifte — alles wat u moet regelen als startende zelfstandige.",
+        "category": "Administratie",
+        "title": "Administratiekantoor Zoetermeer",
+        "description": "Rendabel is uw betrouwbare partner voor professionele administratie in Zoetermeer met persoonlijke aandacht.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/8ad828d1-ca1b-4e41-a6aa-cb351540ed24/letz_Flat_lay_overhead_photo_of_a_Dutch_ZZP_freelancer_20260215180918.jpg",
         "date": "12 feb 2026"
       },
       {
-        "category": "Fiscaal Advies",
-        "title": "BV of eenmanszaak: wanneer is de overstap slim?",
-        "description": "De voor- en nadelen van een BV-structuur en wanneer het fiscaal interessant wordt om over te stappen.",
+        "category": "ZZP",
+        "title": "Professionele ZZP Administratie",
+        "description": "Gespecialiseerde administratieve ondersteuning voor zelfstandigen zonder personeel.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/8e47fca2-5437-4f5a-824d-aa66f67e8232/letz_Professional_photorealistic_image_of_a_modern_glas20260215180916.jpg",
         "date": "5 feb 2026"
       },
       {
-        "category": "BTW",
-        "title": "BTW-aangifte: de 7 meest gemaakte fouten",
-        "description": "Voorkom boetes en naheffingen. Ontdek welke BTW-fouten ondernemers het vaakst maken en hoe u ze voorkomt.",
+        "category": "Salarisadministratie",
+        "title": "Betrouwbare Salarisadministratie",
+        "description": "Complexe salarisadministratie met voortdurend bijgewerkte kennis van wet- en regelgeving.",
         "image": "https://images.letz.ai/dd5c4d93-aedf-481a-a670-f2d5c5917602/0839f5fa-29a4-46f1-b7d1-0d3bdd644b48/letz_Closeup_photorealistic_image_of_hands_typing_on_la20260215180935.jpg",
         "date": "28 jan 2026"
       }
     ]
   },
   "faqs": [
-    { "question": "Voor welk type ondernemer werken jullie?", "answer": "Wij werken met ZZP'ers, freelancers, MKB-bedrijven en BV's. Of u nu net begint als eenmanszaak of een gevestigd bedrijf heeft met 50+ medewerkers — ons dienstenpakket schaalt mee met uw behoeften." },
-    { "question": "Hoe verschilt Sterling van een standaard boekhoudkantoor?", "answer": "Elke klant werkt met een vaste, ervaren boekhouder — niet met wisselende juniors. Wij combineren persoonlijke aandacht met moderne software en proactief fiscaal advies. Wij zijn NOAB-gecertificeerd, wat staat voor kwaliteit en continue bijscholing." },
-    { "question": "Wat houdt het gratis kennismakingsgesprek in?", "answer": "Een vrijblijvend gesprek van 30 minuten met een senior boekhouder. Wij bespreken uw huidige situatie, identificeren bespaarkansen en geven een eerste indicatie van de kosten. Geen verplichtingen." },
-    { "question": "Kan ik de 30%-regeling voor expats via jullie regelen?", "answer": "Jazeker. Wij begeleiden het volledige 30%-regelingtraject: van de eerste aanvraag bij de Belastingdienst tot de jaarlijkse aangifte. Onze adviseurs zijn ervaren met internationale werknemers en kennen de voorwaarden en valkuilen." },
-    { "question": "Wanneer is een BV voordeliger dan een eenmanszaak?", "answer": "Over het algemeen wordt een BV-structuur fiscaal interessant bij een winst vanaf circa €100.000 per jaar. Maar het hangt af van uw persoonlijke situatie, risicoprofiel en toekomstplannen. Wij maken graag een persoonlijke berekening voor u." },
-    { "question": "Hoe werkt de overstap van een andere boekhouder?", "answer": "Heel eenvoudig. Wij regelen de volledige overdracht: opvragen van administratie bij uw vorige boekhouder, inrichten van de software, en naadloos overnemen. De meeste klanten merken niets van de transitie." }
+    {
+      "question": "Wat zijn de kosten van administratie bij Rendabel?",
+      "answer": "De kosten zijn afhankelijk van uw bedrijfstype en administratieve omvang. Wij bieden verschillende pakketten aan, van Starter tot Premium. Neem contact op voor een vrijblijvende offerte."
+    },
+    {
+      "question": "Hoe werkt de samenwerking met Rendabel?",
+      "answer": "Na een vrijblijvende kennismaking stellen wij een passende offerte op. Vervolgens zorgen wij voor een soepele overdracht van uw administratie en bieden langdurige ondersteuning met persoonlijke aandacht."
+    },
+    {
+      "question": "Welke software gebruiken jullie?",
+      "answer": "Wij zijn gecertificeerd als Cloud Accountant van Exact Online en werken met moderne, toekomstbestendige software oplossingen voor efficiënte administratie."
+    },
+    {
+      "question": "Bent u aangesloten bij professionele organisaties?",
+      "answer": "Ja, wij zijn aangesloten bij NOAB, Register Belastingadviseurs en Nirpa. Dit geeft u zekerheid dat uw administratie wordt behandeld door een betrouwbare en professionele partner."
+    },
+    {
+      "question": "Voor welke bedrijfstypen werken jullie?",
+      "answer": "Wij werken met zzp'ers, mkb'ers, starters en grotere ondernemingen. Onze diensten zijn flexibel en afgestemd op uw specifieke behoeften."
+    },
+    {
+      "question": "Hoe blijven jullie up-to-date met regelgeving?",
+      "answer": "Wij volgen voortdurend de ontwikkelingen in ons vakgebied en onderhouden onze vakkennis door permanente educatie. Dit zorgt ervoor dat wij altijd actueel advies kunnen geven."
+    }
   ],
   "cta": {
     "label": "Laten We Kennismaken",
@@ -257,14 +441,39 @@
     "description": "Bel ons, mail ons, of plan direct een gesprek van 30 minuten. Geen verplichtingen — alleen een eerlijk advies over wat wij voor u kunnen betekenen."
   },
   "footer": {
-    "diensten": ["Boekhouding", "BTW-aangifte", "Salarisadministratie", "Fiscaal Advies", "BV Oprichting", "ZZP Boekhouding"],
+    "diensten": [
+      "Boekhouding",
+      "BTW-aangifte",
+      "Salarisadministratie",
+      "Fiscaal Advies",
+      "BV Oprichting",
+      "ZZP Boekhouding"
+    ],
     "bedrijf": [
-      { "label": "Over Ons", "href": "#over-ons" },
-      { "label": "Ons Team", "href": "#team" },
-      { "label": "Tarieven", "href": "#tarieven" },
-      { "label": "Blog", "href": "#" },
-      { "label": "Vacatures", "href": "#" },
-      { "label": "Contact", "href": "#contact" }
+      {
+        "label": "Over Ons",
+        "href": "#over-ons"
+      },
+      {
+        "label": "Ons Team",
+        "href": "#team"
+      },
+      {
+        "label": "Tarieven",
+        "href": "#tarieven"
+      },
+      {
+        "label": "Blog",
+        "href": "#"
+      },
+      {
+        "label": "Vacatures",
+        "href": "#"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
     ]
   },
   "sticky_cta": {
@@ -273,7 +482,12 @@
     "button": "Plan nu"
   },
   "nav": {
-    "items": ["Diensten", "Over Ons", "Team", "Tarieven"],
+    "items": [
+      "Diensten",
+      "Over Ons",
+      "Team",
+      "Tarieven"
+    ],
     "cta": "Gratis Adviesgesprek"
   },
   "client_logos": {
@@ -287,10 +501,31 @@
       "title": "Welk pakket heeft uw interesse?",
       "subtitle": "U kunt dit later nog wijzigen.",
       "packages": [
-        { "id": "zzp-basis", "name": "ZZP Basis", "price": "€99/maand", "desc": "Boekhouding & BTW voor ZZP'ers" },
-        { "id": "mkb-groei", "name": "MKB Groei", "price": "€299/maand", "desc": "Compleet pakket met fiscaal advies", "popular": true },
-        { "id": "onderneming-plus", "name": "Onderneming Plus", "price": "Op maat", "desc": "Maatwerk voor grotere bedrijven" },
-        { "id": "weet-niet", "name": "Weet ik nog niet", "price": "", "desc": "Bespreek opties tijdens het gesprek" }
+        {
+          "id": "zzp-basis",
+          "name": "ZZP Basis",
+          "price": "€99/maand",
+          "desc": "Boekhouding & BTW voor ZZP'ers"
+        },
+        {
+          "id": "mkb-groei",
+          "name": "MKB Groei",
+          "price": "€299/maand",
+          "desc": "Compleet pakket met fiscaal advies",
+          "popular": true
+        },
+        {
+          "id": "onderneming-plus",
+          "name": "Onderneming Plus",
+          "price": "Op maat",
+          "desc": "Maatwerk voor grotere bedrijven"
+        },
+        {
+          "id": "weet-niet",
+          "name": "Weet ik nog niet",
+          "price": "",
+          "desc": "Bespreek opties tijdens het gesprek"
+        }
       ],
       "button": "Kies datum & tijd"
     },
